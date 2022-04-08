@@ -1,1 +1,1 @@
-ciao questo cambiamento è fatto nel branch devel e non nel main
+questo cambiamento invece è fatto nel main
