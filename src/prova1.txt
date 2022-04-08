@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 chchahahdhjsahjds
+=======
+questo cambiamento invece è fatto nel main
+>>>>>>> devel
